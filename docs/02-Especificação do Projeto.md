@@ -18,6 +18,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |![2](https://user-images.githubusercontent.com/74699119/186230583-da7a053d-8297-4990-ae19-db347803924a.png)| **Idade:** 27 <br> **Ocupação:**  Especialista em marketing,<br>colecionador amador de tênis de marca |**Aplicativos:**<br>● Tiktok<br>● Facebook<br>● LinkedIn |
 |**Motivações:**<br>● Adicionar novos itens à sua<br> coleção de tênis<br>● Conhecer pessoas que<br> compartilhem seu hobby |**Frustrações:**<br>● Dificuldade para achar modelos de tênis<br> raros/antigos em bom estado. |**Hobbies:**<br>● Colecionar tênis<br>● Assistir séries |
 
+|Luiz Felipe     | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](img/user1.png)| **Idade:** 32 <br> **Ocupação:**  Analista financeiro,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Pinterest<br>● LinkedIn |
+|**Motivações:**<br>● Defender sua tese de doutorado.<br>● Encontrar uma comunidade que adora sapatos sociais de marcas caras.|**Frustrações:**<br>● Dificuldade em encontrar pessoas que queiram realizar a troca de sapatos sociais. |**Hobbies:**<br>● Tocar Violão<br>● Correr<br>● Assistir Futebol |
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
