@@ -5,16 +5,7 @@ Segundo estudos do "Envolverde" da Carta Capital, para produzir um quilo de algo
 Diante disso, levantou-se a necessidade de um software/aplicativo com uma proposta inovadora para troca de calçados. Desta forma, as peças adquiridas terão uma rotatividade antes de chegar ao descarte.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Diante do exposto, percebe-se que há três problemas a serem sanados, a urgência em disponibilizar canais que permitam aos usuários realizar a troca de calçados, reduzir o consumo desenfreado e contribuir com a diminuição da poluição no meio ambiente.
 
 ## Objetivos
 
