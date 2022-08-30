@@ -21,7 +21,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |Luiz Felipe     | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![2](img/user1.png)| **Idade:** 32 <br> **Ocupação:**  Analista financeiro,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Pinterest<br>● LinkedIn |
-|**Motivações:**<br>● Defender sua tese de doutorado.<br>● Encontrar uma comunidade que adora sapatos sociais de marcas caras.|**Frustrações:**<br>● Dificuldade em encontrar pessoas que queiram realizar a troca de sapatos sociais. |**Hobbies:**<br>● Tocar Violão<br>● Correr<br>● Assistir Futebol |
+|**Motivações:**<br>● Defender sua tese de doutorado.<br>● Encontrar uma comunidade que adora Jordans.|**Frustrações:**<br>● Dificuldade em encontrar pessoas que queiram realizar a troca de Jordans. |**Hobbies:**<br>● Tocar Violão<br>● Correr<br>● Assistir Futebol |
 
 |Douglas Gonçalves     | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
