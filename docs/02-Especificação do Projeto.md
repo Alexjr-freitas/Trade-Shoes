@@ -23,6 +23,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |![2](img/user1.png)| **Idade:** 32 <br> **Ocupação:**  Analista financeiro,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Pinterest<br>● LinkedIn |
 |**Motivações:**<br>● Defender sua tese de doutorado.<br>● Encontrar uma comunidade que adora sapatos sociais de marcas caras.|**Frustrações:**<br>● Dificuldade em encontrar pessoas que queiram realizar a troca de sapatos sociais. |**Hobbies:**<br>● Tocar Violão<br>● Correr<br>● Assistir Futebol |
 
+|Douglas Gonçalves     | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](https://user-images.githubusercontent.com/91163177/186244072-906f4b5e-fe53-41f5-8eb2-306ec98d297f.png)| **Idade:** 33 <br> **Ocupação:**  Advogado,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Facebook<br>● LinkedIn |
+|**Motivações:**<br>● Trocar seus tênis esportivos antigos por outros diferentes<br>● Conhecer pessoas que pratiquem esportes e queiram trocar tênis esportivos |**Frustrações:**<br>● Dificuldade para armazenar seus tênis que estão em bom estado<br> por estar comprando sempre lançamentos e acumulando. |**Hobbies:**<br>● Colecionar tênis esportivos<br>● Praticar esportes |
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -33,6 +38,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Tamara Silva        | Poder trocar tênis dos quais já enjoei por outros tênis de valor similar. | Poder economizar dinheiro na hora de obter novos modelos de tênis. |
 |Felipe Souza        | Poder buscar por modelos de tênis específicos e visualizar todas as informações relevantes aos mesmos. | Poder avaliar se os tênis anunciado atendem às suas expectativas antes de realizar a transação. |
 |Felipe Souza        | Realizar a troca de seus tênis por meio de uma empresa segura que garanta a integridade do produto e o assegure em caso de fraude. | Poder obter os modelos de tênis que deseja sem o risco de receber produtos falsificados ou em estado de conservação ruim. |
+|Douglas Gonçalves   | Poder trocar seus tênis de esportes de alto rendimento antigos em bom estado por outros tênis diferentes| Poder trocar seus tênis de alto rendimento por outros variados, já que os de alto rendimento ele sempre compra lançamentos e não quer acumular espaços com os antigos. |
 
 ## Modelagem do Processo de Negócio 
 
@@ -78,6 +84,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Disponibilizar um sistema de mensagens onde os usuários poderão conversar entre si a respeito dos produtos e combinar possíveis trocas.   | MÉDIA |
 |RF-004| Disponibilizar um sistema onde os usuários poderão fazer “ofertas” de trocas de um produto cadastrado pelo outro. Sendo que o usuário a qual a oferta foi feita poderá visualizar todas as ofertas em aberto e optar por aceitar ou recusar as mesmas. | MÉDIA |
 |RF-005| Disponibilizar um sistema de envio das mercadorias primeiro para a empresa (que realizará a curadoria dos produtos para determinar se estão em bom estado) e depois para os clientes. | ALTA |
+|RF-006| Disponibilizar uma tabela de medida em centímetros do pé de acordo com a numeração do tênis, afim de solucionar problemas de devoluções. | ALTA |
+|RF-007| Disponibilizar um sistema de login e autenticação, onde o usuário poderá criar uma conta com dados válidos e realizar login. | ALTA |
+
 
 ### Requisitos não Funcionais
 
